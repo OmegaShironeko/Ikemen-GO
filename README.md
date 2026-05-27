@@ -1,3 +1,5 @@
+<img width="699" height="257" alt="IKEMEN GO Logo FInal FINAL JP" src="https://github.com/user-attachments/assets/45161396-3450-4519-aea5-7cc5336a9c9a" />
+
 # Ikemen GO
 
 Ikemen GO is an open source fighting game engine that supports resources from the [M.U.G.E.N](https://en.wikipedia.org/wiki/Mugen_(game_engine)) engine, written in Google’s programming language, [Go](https://go.dev/). It is a complete rewrite of a prior engine known simply as Ikemen.
